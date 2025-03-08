@@ -13,3 +13,4 @@
 | 8 | [Max Counters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | [Code](./Codility/8_MaxCounters.py) | [Codility](https://app.codility.com/demo/results/trainingWJPHE3-HA7/) |
 | 9 | [Passing Cars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) | [Code](./Codility/9_PassingCars.py) | [Codility](https://app.codility.com/demo/results/training3U95Z8-2NE/) |
 | 10 | [Number Of Disc Intersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/) | [Code](./Codility/10_NumberOfDiscIntersections.py) | [Codility](https://app.codility.com/demo/results/trainingC38T7W-HV7/) |
+| 11 | [Stone Wall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) | [Code](./Codility/11_StoneWall.py) | [Codility](https://app.codility.com/demo/results/trainingNJ9S44-NYK/) |
