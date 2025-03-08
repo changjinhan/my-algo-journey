@@ -11,3 +11,4 @@
 | 6 | [Tape Equilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | [Code](./Codility/6_TapeEquilibrium.py) | [Codility](https://app.codility.com/demo/results/trainingWG6WZE-FXP/) |
 | 7 | [Frog River One](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | [Code](./Codility/7_FrogRiverOne.py) | [Codility](https://app.codility.com/demo/results/training3EQEXT-PB5/) |
 | 8 | [Max Counters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | [Code](./Codility/8_MaxCounters.py) | [Codility](https://app.codility.com/demo/results/trainingWJPHE3-HA7/) |
+| 9 | [Passing Cars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) | [Code](./Codility/9_PassingCars.py) | [Codility](https://app.codility.com/demo/results/training3U95Z8-2NE/) |
