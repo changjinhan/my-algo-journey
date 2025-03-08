@@ -3,6 +3,7 @@ Task: Number of Disc Intersections
 - Compute the number of intersections in a sequence of discs.
 """
 
+# Time complexity: O(N*log(N))
 def solution(A):
     N = len(A)
     start_points = sorted([i-A[i] for i in range(N)])
