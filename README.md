@@ -16,3 +16,4 @@
 | 11 | [Stone Wall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) | [Code](./Codility/11_StoneWall.py) | [Codility](https://app.codility.com/demo/results/trainingNJ9S44-NYK/) |
 | 12 | [Min Max Division](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/) | [Code](./Codility/12_MinMaxDivision.py) | [Codility](https://app.codility.com/demo/results/trainingZKD7EF-DUX/) |
 | 13 | [Max Nonoverlapping Segments](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/) | [Code](./Codility/13_MaxNonoverlappingSegments.py) | [Codility](https://app.codility.com/demo/results/trainingH6RHUQ-3TY/) |
+| 14 | [Number Solitaire](https://app.codility.com/programmers/lessons/17-dynamic_programming/number_solitaire/) | [Code](./Codility/14_NumberSolitaire.py) | [Codility](https://app.codility.com/demo/results/trainingYSTEBG-YX9/) |
