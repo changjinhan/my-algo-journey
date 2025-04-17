@@ -45,6 +45,41 @@ op_dict = {
     3: '*',
     4: '/',
 }
+
+def update_only_num(count, cur):
+    if count > M:
+        return
+    
+    count += 1
+    for i in arr:
+        val = cur * 10 + i
+        if val < len(nums) and nums[val] > count:
+            nums[val] = count
+            update_only_num(count + 1, val)
+
+
+def update_with_ops(cur):
+    if nums[cur] > M or (cur > len(nums) - 1):
+       return
+    
+    for op in ops:
+        for j in arr:
+            val = cur
+            if op == '+':
+                val += j
+            elif op == '-':
+                val -= j
+            elif op == '*':
+                val *= j
+            elif op == '/':
+                if j == 0:
+                    continue
+                val //= j
+            if 0 <= val < len(nums) and (nums[val] > nums[cur] + 2): 
+                nums[val] = nums[cur] + 2
+                update_with_ops(val)
+
+
 for test_case in range(1, T + 1):
     # Test case 입력
     N, O, M = map(int, input().split())
@@ -53,16 +88,23 @@ for test_case in range(1, T + 1):
     ops = [op_dict[i] for i in list(map(int, input().split()))]
     W = int(input())
     result = 0
+    
+    # 연산자 없이 만들 수 있는 모든 숫자에 대해 터치 횟수 저장
+    nums = [M+1] * 1000
+    update_only_num(0, 0)
 
-    # Test case 처리
-    if W == 0:
-        if set(ops).isdisjoint({'-', '/'}):
-            result = -1
+    if nums[W] <= M:
+        result = nums[W]
+        print(f'#{test_case} {result}')
+        continue
 
+    # 연산자 사용해서 만들 수 있는 모든 숫자에 대해 터치 횟수 저장
+    for i in range(1000):
+        update_with_ops(i)
 
-    # print(f'#{test_case} {N} {O} {M}')
-    # print(f'#{test_case} {arr}')
-    # print(f'#{test_case} {ops}')
-    # print(f'#{test_case} {W}')
+    if nums[W] <= M - 1:
+        result = nums[W] + 1
+    else:
+        result = -1
 
     print(f'#{test_case} {result}')
