@@ -24,5 +24,6 @@
 | 19 | [업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711) | [Code](./Programmers/5_업그레이드된아이템구하기.sql) | - | Programmers | SQL |
 | 20 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697) | [Code](./Programmers/6_가장비싼상품구하기.sql) | - | Programmers | SQL |
 | 21 | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027) | [Code](./Programmers/7_주문량이많은아이스크림들조회하기.sql) | - | Programmers | SQL |
+| 22 | [4311 오래된 스마트폰](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL2vlPKMlQDFAUE) | [Code](./SW-Expert-Academy/4311.%20%5B연습문제%5D%20오래된%20스마트폰/solution.py) | - | SW Expert Academy | Algorithm |
 
 
