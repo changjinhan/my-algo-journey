@@ -28,5 +28,6 @@
 | 23 | [2178 미로 탐색](https://www.acmicpc.net/problem/2178) | [Code](./Baekjoon-Online-Judge/2178.%20미로%20탐색/solution.py) | - | Baekjoon Online Judge | Algorithm |
 | 24 | [2606 바이러스](https://www.acmicpc.net/problem/2606) | [Code](./Baekjoon-Online-Judge/2606.%20바이러스/solution.py) | - | Baekjoon Online Judge | Algorithm |
 | 25 | [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667) | [Code](Baekjoon-Online-Judge/2667.%20단지번호붙이기/solution.py) | - | Baekjoon Online Judge | Algorithm |
+| 26 | [18258 큐 2](https://www.acmicpc.net/problem/18258) | [Code](Baekjoon-Online-Judge/18258.%20큐%202/solution.py) | - | Baekjoon Online Judge | Algorithm |
 
 
