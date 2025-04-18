@@ -25,9 +25,9 @@
 | 20 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697) | [Code](./Programmers/6_가장비싼상품구하기.sql) | - | Programmers | SQL |
 | 21 | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027) | [Code](./Programmers/7_주문량이많은아이스크림들조회하기.sql) | - | Programmers | SQL |
 | 22 | [4311 오래된 스마트폰](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL2vlPKMlQDFAUE) | [Code](./SW-Expert-Academy/4311.%20%5B연습문제%5D%20오래된%20스마트폰/solution.py) | - | SW Expert Academy | Algorithm |
-| 23 | [2178 미로 탐색](https://www.acmicpc.net/problem/2178) | [Code](./Baekjoon-Online-Judge/2178.%20미로%20탐색/solution.py) | - | Baekjoon Online Judge | Algorithm |
-| 24 | [2606 바이러스](https://www.acmicpc.net/problem/2606) | [Code](./Baekjoon-Online-Judge/2606.%20바이러스/solution.py) | - | Baekjoon Online Judge | Algorithm |
-| 25 | [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667) | [Code](Baekjoon-Online-Judge/2667.%20단지번호붙이기/solution.py) | - | Baekjoon Online Judge | Algorithm |
-| 26 | [18258 큐 2](https://www.acmicpc.net/problem/18258) | [Code](Baekjoon-Online-Judge/18258.%20큐%202/solution.py) | - | Baekjoon Online Judge | Algorithm |
+| 23 | [2178 미로 탐색](https://www.acmicpc.net/problem/2178) | [Code](./Baekjoon-Online-Judge/2178.%20미로%20탐색/solution.py) | [Link](https://www.acmicpc.net/source/93287558) | Baekjoon Online Judge | Algorithm |
+| 24 | [2606 바이러스](https://www.acmicpc.net/problem/2606) | [Code](./Baekjoon-Online-Judge/2606.%20바이러스/solution.py) | [Link](https://www.acmicpc.net/source/93294365) | Baekjoon Online Judge | Algorithm |
+| 25 | [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667) | [Code](Baekjoon-Online-Judge/2667.%20단지번호붙이기/solution.py) | [Link](https://www.acmicpc.net/source/93303571) | Baekjoon Online Judge | Algorithm |
+| 26 | [18258 큐 2](https://www.acmicpc.net/problem/18258) | [Code](Baekjoon-Online-Judge/18258.%20큐%202/solution.py) | [Link](https://www.acmicpc.net/source/93309276) | Baekjoon Online Judge | Algorithm |
 
 
