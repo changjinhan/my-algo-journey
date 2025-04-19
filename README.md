@@ -32,3 +32,4 @@
 | 27 | [10828 스택](https://www.acmicpc.net/problem/10828) | [Code](Baekjoon-Online-Judge/10828.%20스택/solution.py) | [Link](https://www.acmicpc.net/source/93326831) | Baekjoon Online Judge | Algorithm |
 | 28 | [20291 파일 정리](https://www.acmicpc.net/problem/20291) | [Code](Baekjoon-Online-Judge/20291.%20파일%20정리/solution.py) | [Link](https://www.acmicpc.net/source/93327948) | Baekjoon Online Judge | Algorithm |
 | 29 | [11286 절댓값 힙](https://www.acmicpc.net/problem/11286) | [Code](Baekjoon-Online-Judge/11286.%20절댓값%20힙/solution.py) | [Link](https://www.acmicpc.net/source/93334976) | Baekjoon Online Judge | Algorithm |
+| 30 | [11728 배열 합치기](https://www.acmicpc.net/problem/11728) | [Code](Baekjoon-Online-Judge/11728.%20배열%20합치기/solution.py) | [Link](https://www.acmicpc.net/source/93347870) | Baekjoon Online Judge | Algorithm |
