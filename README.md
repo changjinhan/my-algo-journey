@@ -34,3 +34,4 @@
 | 29 | [11286 절댓값 힙](https://www.acmicpc.net/problem/11286) | [Code](Baekjoon-Online-Judge/11286.%20절댓값%20힙/solution.py) | [Link](https://www.acmicpc.net/source/93334976) | Baekjoon Online Judge | Algorithm |
 | 30 | [11728 배열 합치기](https://www.acmicpc.net/problem/11728) | [Code](Baekjoon-Online-Judge/11728.%20배열%20합치기/solution.py) | [Link](https://www.acmicpc.net/source/93347870) | Baekjoon Online Judge | Algorithm |
 | 31 | [1920 수 찾기](https://www.acmicpc.net/problem/1920) | [Code](Baekjoon-Online-Judge/1920.%20수%20찾기/solution.py) | [Link](https://www.acmicpc.net/source/93376251) | Baekjoon Online Judge | Algorithm |
+| 32 | [2805 나무 자르기](https://www.acmicpc.net/problem/2805) | [Code](Baekjoon-Online-Judge/2805.%20나무%20자르기/solution.py) | [Link](https://www.acmicpc.net/source/93377992) | Baekjoon Online Judge | Algorithm |
