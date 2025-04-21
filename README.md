@@ -37,3 +37,4 @@
 | 32 | [2805 나무 자르기](https://www.acmicpc.net/problem/2805) | [Code](Baekjoon-Online-Judge/2805.%20나무%20자르기/solution.py) | [Link](https://www.acmicpc.net/source/93377992) | Baekjoon Online Judge | Algorithm |
 | 33 | [1654 랜선 자르기](https://www.acmicpc.net/problem/1654) | [Code](Baekjoon-Online-Judge/1654.%20랜선%20자르기/solution.py) | [Link](https://www.acmicpc.net/source/93384301) | Baekjoon Online Judge | Algorithm |
 | 34 | [1003 피보나치 함수](https://www.acmicpc.net/problem/1003) | [Code](Baekjoon-Online-Judge/1003.%20피보나치%20함수/solution.py) | [Link](https://www.acmicpc.net/source/93413690) | Baekjoon Online Judge | Algorithm |
+| 35 | [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [Code](Baekjoon-Online-Judge/9095.%201,%202,%203%20더하기/solution.py) | [Link](https://www.acmicpc.net/source/93421298) | Baekjoon Online Judge | Algorithm |
