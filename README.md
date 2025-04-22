@@ -41,3 +41,4 @@
 | 36 | [2579 계단 오르기](https://www.acmicpc.net/problem/2579) | [Code](Baekjoon-Online-Judge/2579.%20계단%20오르기/solution.py) | [Link](https://www.acmicpc.net/source/93427977) | Baekjoon Online Judge | Algorithm |
 | 37 | [1991 트리 순회](https://www.acmicpc.net/problem/1991) | [Code](Baekjoon-Online-Judge/1991.%20트리%20순회/solution.py) | [Link](https://www.acmicpc.net/source/93451612) | Baekjoon Online Judge | Algorithm |
 | 38 | [11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [Code](Baekjoon-Online-Judge/11725.%20트리의%20부모%20찾기/solution.py) | [Link](https://www.acmicpc.net/source/93460908) | Baekjoon Online Judge | Algorithm |
+| 39 | [1406 에디터](https://www.acmicpc.net/problem/1406) | [Code](Baekjoon-Online-Judge/1406.%20에디터/solution.py) | [Link](https://www.acmicpc.net/source/93469965) | Baekjoon Online Judge | Algorithm |
