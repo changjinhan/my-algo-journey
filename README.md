@@ -43,3 +43,4 @@
 | 38 | [11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | [Code](Baekjoon-Online-Judge/11725.%20트리의%20부모%20찾기/solution.py) | [Link](https://www.acmicpc.net/source/93460908) | Baekjoon Online Judge | Algorithm |
 | 39 | [1406 에디터](https://www.acmicpc.net/problem/1406) | [Code](Baekjoon-Online-Judge/1406.%20에디터/solution.py) | [Link](https://www.acmicpc.net/source/93469965) | Baekjoon Online Judge | Algorithm |
 | 40 | [4335 무인도 탈출](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL6HGz6Ai4DFAUY) | [Code](./SW-Expert-Academy/4335.%20[연습문제]%20무인도%20탈출/solution.py) | - | SW Expert Academy | Algorithm |
+| 41 | [4340 파이프 연결](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL6LhM6A60DFAUY) | [Code](./SW-Expert-Academy/4340.%20[연습문제]%20파이프%20연결/solution.py) | - | SW Expert Academy | Algorithm |

@@ -1,5 +1,6 @@
+# 4335. [연습문제] 무인도 탈출
+# 메모리 60,416kb / 실행시간 105ms
 import sys
-
 sys.stdin = open('sample_input.txt', 'r')
 
 T = int(input())
