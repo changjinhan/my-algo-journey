@@ -45,3 +45,4 @@
 | 40 | [4335 무인도 탈출](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL6HGz6Ai4DFAUY) | [Code](./SW-Expert-Academy/4335.%20[연습문제]%20무인도%20탈출/solution.py) | - | SW Expert Academy | Algorithm |
 | 41 | [4340 파이프 연결](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL6LhM6A60DFAUY) | [Code](./SW-Expert-Academy/4340.%20[연습문제]%20파이프%20연결/solution.py) | - | SW Expert Academy | Algorithm |
 | 42 | [4322 패킷 처리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL6D8YaAVkDFAUY) | [Code](./SW-Expert-Academy/4322.%20[연습문제]%20패킷%20처리/solution.py) | - | SW Expert Academy | Algorithm |
+| 43 | [4317 칩 생산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL21nCaM8wDFAUE) | [Code](./SW-Expert-Academy/4317.%20[연습문제]%20칩%20생산/solution.py) | - | SW Expert Academy | Algorithm |
