@@ -46,4 +46,5 @@
 | 41 | [4340 파이프 연결](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL6LhM6A60DFAUY) | [Code](./SW-Expert-Academy/4340.%20[연습문제]%20파이프%20연결/solution.py) | - | SW Expert Academy | Algorithm |
 | 42 | [4322 패킷 처리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL6D8YaAVkDFAUY) | [Code](./SW-Expert-Academy/4322.%20[연습문제]%20패킷%20처리/solution.py) | - | SW Expert Academy | Algorithm |
 | 43 | [4317 칩 생산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL21nCaM8wDFAUE) | [Code](./SW-Expert-Academy/4317.%20[연습문제]%20칩%20생산/solution.py) | - | SW Expert Academy | Algorithm |
-| 44 | [4013 특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH) | [Code](./SW-Expert-Academy/4013.%20[모의%20SW%20역량테스트]%20특이한%20자석/) | - | SW Expert Academy | Algorithm |
+| 44 | [4013 특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH) | [Code](./SW-Expert-Academy/4013.%20[모의%20SW%20역량테스트]%20특이한%20자석/solution.py) | - | SW Expert Academy | Algorithm |
+| 45 | [5656 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) | [Code](./SW-Expert-Academy/5656.%20[모의%20SW%20역량테스트]%20벽돌%20깨기/solution.py) | - | SW Expert Academy | Algorithm |
