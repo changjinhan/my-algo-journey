@@ -50,3 +50,4 @@
 | 45 | [5656 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) | [Code](./SW-Expert-Academy/5656.%20[모의%20SW%20역량테스트]%20벽돌%20깨기/solution.py) | - | SW Expert Academy | Algorithm |
 | 46 | [22760 행렬 복구](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZK3q5q6BdMDFAXk) | [Code](./SW-Expert-Academy/22760.%20행렬%20복구/solution.py) | - | SW Expert Academy | Algorithm |
 | 47 | [14503 로봇 청소기](https://www.acmicpc.net/problem/14503) | [Code](./Baekjoon-Online-Judge/14503.%20로봇%20청소기/solution.py) | [Link](https://www.acmicpc.net/source/94030640) | Baekjoon Online Judge | Algorithm |
+| 48 | [14889 스타트와 링크](https://www.acmicpc.net/problem/14889) | [Code](./Baekjoon-Online-Judge/14889.%20스타트와%20링크/solution.py) | [Link](https://www.acmicpc.net/source/94032582) | Baekjoon Online Judge | Algorithm |
