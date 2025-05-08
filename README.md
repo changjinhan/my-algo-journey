@@ -51,3 +51,4 @@
 | 46 | [22760 행렬 복구](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZK3q5q6BdMDFAXk) | [Code](./SW-Expert-Academy/22760.%20행렬%20복구/solution.py) | - | SW Expert Academy | Algorithm |
 | 47 | [14503 로봇 청소기](https://www.acmicpc.net/problem/14503) | [Code](./Baekjoon-Online-Judge/14503.%20로봇%20청소기/solution.py) | [Link](https://www.acmicpc.net/source/94030640) | Baekjoon Online Judge | Algorithm |
 | 48 | [14889 스타트와 링크](https://www.acmicpc.net/problem/14889) | [Code](./Baekjoon-Online-Judge/14889.%20스타트와%20링크/solution.py) | [Link](https://www.acmicpc.net/source/94032582) | Baekjoon Online Judge | Algorithm |
+| 49 | [16236 아기 상어](https://www.acmicpc.net/problem/16236) | [Code](./Baekjoon-Online-Judge/16236.%20아기%20상어/solution.py) | [Link](https://www.acmicpc.net/source/94041779) | Baekjoon Online Judge | Algorithm |
