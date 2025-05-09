@@ -52,3 +52,4 @@
 | 47 | [14503 로봇 청소기](https://www.acmicpc.net/problem/14503) | [Code](./Baekjoon-Online-Judge/14503.%20로봇%20청소기/solution.py) | [Link](https://www.acmicpc.net/source/94030640) | Baekjoon Online Judge | Algorithm |
 | 48 | [14889 스타트와 링크](https://www.acmicpc.net/problem/14889) | [Code](./Baekjoon-Online-Judge/14889.%20스타트와%20링크/solution.py) | [Link](https://www.acmicpc.net/source/94032582) | Baekjoon Online Judge | Algorithm |
 | 49 | [16236 아기 상어](https://www.acmicpc.net/problem/16236) | [Code](./Baekjoon-Online-Judge/16236.%20아기%20상어/solution.py) | [Link](https://www.acmicpc.net/source/94041779) | Baekjoon Online Judge | Algorithm |
+| 50 | [1953 탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) | [Code](./SW-Expert-Academy/1953.%20[모의%20SW%20역량테스트]%20탈주범%20검거/solution.py) | - | SW Expert Academy | Algorithm |
