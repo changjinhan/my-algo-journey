@@ -53,3 +53,4 @@
 | 48 | [14889 스타트와 링크](https://www.acmicpc.net/problem/14889) | [Code](./Baekjoon-Online-Judge/14889.%20스타트와%20링크/solution.py) | [Link](https://www.acmicpc.net/source/94032582) | Baekjoon Online Judge | Algorithm |
 | 49 | [16236 아기 상어](https://www.acmicpc.net/problem/16236) | [Code](./Baekjoon-Online-Judge/16236.%20아기%20상어/solution.py) | [Link](https://www.acmicpc.net/source/94041779) | Baekjoon Online Judge | Algorithm |
 | 50 | [1953 탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) | [Code](./SW-Expert-Academy/1953.%20[모의%20SW%20역량테스트]%20탈주범%20검거/solution.py) | - | SW Expert Academy | Algorithm |
+| 51 | [2105 디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu) | [Code](./SW-Expert-Academy/2105.%20[모의%20SW%20역량테스트]%20디저트%20카페/solution.py) | - | SW Expert Academy | Algorithm |
