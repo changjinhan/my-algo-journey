@@ -57,3 +57,4 @@
 | 52 | [5644 무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo) | [Code](./SW-Expert-Academy/5644.%20[모의%20SW%20역량테스트]%20무선%20충전/solution.py) | - | SW Expert Academy | Algorithm |
 | 53 | [1912 연속합](https://www.acmicpc.net/problem/1912) | [Code](Baekjoon-Online-Judge/1912.%20연속합/solution.py) | [Link](https://www.acmicpc.net/source/94503896) | Baekjoon Online Judge | Algorithm |
 | 54 | [1463 1로 만들기](https://www.acmicpc.net/problem/1463) | [Code](Baekjoon-Online-Judge/1463.%201로%20만들기/solution.py) | [Link](https://www.acmicpc.net/source/94506456) | Baekjoon Online Judge | Algorithm |
+| 55 | [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [Code](Baekjoon-Online-Judge/11053.%20가장%20긴%20증가하는%20부분%20수열/solution.py) | [Link](https://www.acmicpc.net/source/94509959) | Baekjoon Online Judge | Algorithm |
