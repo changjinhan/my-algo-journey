@@ -59,3 +59,4 @@
 | 54 | [1463 1로 만들기](https://www.acmicpc.net/problem/1463) | [Code](Baekjoon-Online-Judge/1463.%201로%20만들기/solution.py) | [Link](https://www.acmicpc.net/source/94506456) | Baekjoon Online Judge | Algorithm |
 | 55 | [11053 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [Code](Baekjoon-Online-Judge/11053.%20가장%20긴%20증가하는%20부분%20수열/solution.py) | [Link](https://www.acmicpc.net/source/94509959) | Baekjoon Online Judge | Algorithm |
 | 56 | [1149 RGB거리](https://www.acmicpc.net/problem/1149) | [Code](Baekjoon-Online-Judge/1149.%20RGB거리/solution.py) | [Link](https://www.acmicpc.net/source/94548240) | Baekjoon Online Judge | Algorithm |
+| 57 | [11726 2xn 타일링](https://www.acmicpc.net/problem/11726) | [Code](Baekjoon-Online-Judge/11726.%202×n%20타일링/solution.py) | [Link](https://www.acmicpc.net/source/94584702) | Baekjoon Online Judge | Algorithm |
