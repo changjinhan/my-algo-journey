@@ -63,3 +63,4 @@
 | 58 | [2775 부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [Code](Baekjoon-Online-Judge/2775.%20부녀회장이%20될테야/solution.py) | [Link](https://www.acmicpc.net/source/94586051) | Baekjoon Online Judge | Algorithm |
 | 59 | [2839 설탕 배달](https://www.acmicpc.net/problem/2839) | [Code](Baekjoon-Online-Judge/2839.%20설탕%20배달/solution.py) | [Link](https://www.acmicpc.net/source/94588032) | Baekjoon Online Judge | Algorithm |
 | 60 | [1932 정수 삼각형](https://www.acmicpc.net/problem/1932) | [Code](Baekjoon-Online-Judge/1932.%20정수%20삼각형/solution.py) | [Link](https://www.acmicpc.net/source/94592087) | Baekjoon Online Judge | Algorithm |
+| 61 | [1010 다리 놓기](https://www.acmicpc.net/problem/1010) | [Code](Baekjoon-Online-Judge/1010.%20다리%20놓기/solution.py) | [Link](https://www.acmicpc.net/source/94598336) | Baekjoon Online Judge | Algorithm |
