@@ -65,3 +65,4 @@
 | 60 | [1932 정수 삼각형](https://www.acmicpc.net/problem/1932) | [Code](Baekjoon-Online-Judge/1932.%20정수%20삼각형/solution.py) | [Link](https://www.acmicpc.net/source/94592087) | Baekjoon Online Judge | Algorithm |
 | 61 | [1010 다리 놓기](https://www.acmicpc.net/problem/1010) | [Code](Baekjoon-Online-Judge/1010.%20다리%20놓기/solution.py) | [Link](https://www.acmicpc.net/source/94598336) | Baekjoon Online Judge | Algorithm |
 | 62 | [2156 포도주 시식](https://www.acmicpc.net/problem/2156) | [Code](Baekjoon-Online-Judge/2156.%20포도주%20시식/solution.py) | [Link](https://www.acmicpc.net/source/94881468) | Baekjoon Online Judge | Algorithm |
+| 63 | [12865 평범한 배낭](https://www.acmicpc.net/problem/12865) | [Code](Baekjoon-Online-Judge/12865.%20평범한%20배낭/solution.py) | [Link](https://www.acmicpc.net/source/94883870) | Baekjoon Online Judge | Algorithm |
